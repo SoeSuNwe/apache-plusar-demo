@@ -1,5 +1,11 @@
 #run producer file eg: 
-python run producer.py
+python producer.py
 
 #run consumer file eg: 
-python run consumer.py
+python consumer.py
+
+
+#run producer_tenant
+python producer_tenant.py
+
+
